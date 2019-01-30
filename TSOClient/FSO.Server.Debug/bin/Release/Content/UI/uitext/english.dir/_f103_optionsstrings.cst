@@ -1,0 +1,31 @@
+﻿1 ^Surrounding Lots^
+2 ^City Shadows^
+3 ^FSO Lighting^
+4 ^Shadow Detail^
+5 ^Force Z-Order^
+6 ^Smooth Zoom^	
+7 ^Object Shadows^
+
+8 ^No surrounding lots. Gray void is drawn outside the lot.^
+9 ^Empty surrounding lots. (just ground and trees)^
+10 ^Full surrounding lots. (architecture, outdoor objects)^
+
+11 ^3D Shadows^
+12 ^City Skybox^
+
+13 ^Adjust DPI Scaling^
+14 ^Switch to 3D Mode^
+15 ^Switch to 2D Mode^
+
+16 ^Advanced Lighting:^
+17 ^Off/FSO/+Walls/+Objs^
+18 ^Directional Lighting (3D Only)^
+
+19 ^Toggle Settings:^
+20 ^Weather^
+21 ^Graphics Options^
+22 ^Detail:^
+
+23 ^Texture Compression^
+24 ^Enables DXT5 Texture Compression for walls, floors and objects. Sprites take up 1/4 of the VRAM at the cost of visual quality. Useful for avoiding crashes on Intel HD Graphics or old GPUs.^
+25 ^This option will not take full effect until you restart the game!^

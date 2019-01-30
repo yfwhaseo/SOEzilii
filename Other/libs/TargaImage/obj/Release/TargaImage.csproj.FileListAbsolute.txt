@@ -1,0 +1,8 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\MonoTSOClient\tso.client\tso.client\bin\WindowsGL\Debug\TargaImage.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\MonoTSOClient\tso.client\tso.client\bin\WindowsGL\Debug\TargaImage.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\MonoTSOClient\tso.client\tso.client\bin\WindowsGL\Debug\TargaImage.xml
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Release\TargaImage.Resource1.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Release\TargaImage.csproj.GenerateResource.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Release\TargaImage.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Release\TargaImage.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Release\TargaImage.pdb

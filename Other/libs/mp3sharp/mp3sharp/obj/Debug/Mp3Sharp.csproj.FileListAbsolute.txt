@@ -1,0 +1,6 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\bin\Debug\Mp3Sharp.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\bin\Debug\Mp3Sharp.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\obj\Debug\Mp3Sharp.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\obj\Debug\Mp3Sharp.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\obj\Debug\Mp3Sharp.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\obj\Debug\Mp3Sharp.pdb

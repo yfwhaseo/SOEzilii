@@ -1,0 +1,5 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImagePCL\bin\Release\TargaImagePCL.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImagePCL\bin\Release\TargaImagePCL.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImagePCL\obj\Release\TargaImagePCL.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImagePCL\obj\Release\TargaImagePCL.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImagePCL\obj\Release\TargaImagePCL.pdb

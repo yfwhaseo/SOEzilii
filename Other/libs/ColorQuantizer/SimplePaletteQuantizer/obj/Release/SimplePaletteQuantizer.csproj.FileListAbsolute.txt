@@ -1,0 +1,7 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\bin\Release\SimplePaletteQuantizer.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\bin\Release\SimplePaletteQuantizer.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\obj\Release\SimplePaletteQuantizer.Properties.Resources.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\obj\Release\SimplePaletteQuantizer.csproj.GenerateResource.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\obj\Release\SimplePaletteQuantizer.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\obj\Release\SimplePaletteQuantizer.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\ColorQuantizer\SimplePaletteQuantizer\obj\Release\SimplePaletteQuantizer.pdb

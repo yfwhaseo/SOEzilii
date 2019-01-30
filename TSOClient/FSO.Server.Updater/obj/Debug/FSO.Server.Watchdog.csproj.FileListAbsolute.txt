@@ -1,0 +1,9 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\bin\Debug\watchdog.ini
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\bin\Debug\watchdog.sh
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\bin\Debug\watchdog.exe.config
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\bin\Debug\watchdog.exe
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\bin\Debug\watchdog.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\obj\Debug\FSO.Server.Watchdog.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\obj\Debug\FSO.Server.Watchdog.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\obj\Debug\watchdog.exe
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server.Updater\obj\Debug\watchdog.pdb

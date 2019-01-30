@@ -1,0 +1,6 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\System.Drawing\bin\Debug\System.Drawing.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\System.Drawing\bin\Debug\System.Drawing.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\System.Drawing\obj\Debug\System.Drawing.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\System.Drawing\obj\Debug\System.Drawing.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\System.Drawing\obj\Debug\System.Drawing.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\System.Drawing\obj\Debug\System.Drawing.pdb

@@ -1,0 +1,5 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\bin\Release\VoronoiLib.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\bin\Release\VoronoiLib.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Release\VoronoiLib.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Release\VoronoiLib.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Release\VoronoiLib.pdb

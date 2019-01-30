@@ -1,0 +1,2 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server\obj\Debug\FSO.Server.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Server\obj\Debug\FSO.Server.csproj.CoreCompileInputs.cache

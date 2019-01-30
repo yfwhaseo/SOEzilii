@@ -1,0 +1,94 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Dapper;
+using FSO.Server.Database.DA.Utils;
+
+namespace FSO.Server.Database.DA.Users
+{
+    public class SqlUsers : AbstractSqlDA, IUsers
+    {
+        public SqlUsers(ISqlContext context) : base(context)
+        {
+        }
+
+        public User GetByUsername(string username)
+        {
+            return Context.Connection.Query<User>("SELECT * FROM fso_users WHERE username = @username", new { username = username }).FirstOrDefault();
+        }
+
+        public UserAuthenticate GetAuthenticationSettings(uint userId)
+        {
+            return Context.Connection.Query<UserAuthenticate>("SELECT * FROM fso_user_authenticate WHERE user_id = @user_id", new { user_id = userId }).FirstOrDefault();
+        }
+
+        public User GetById(uint id)
+        {
+            return Context.Connection.Query<User>("SELECT * FROM fso_users WHERE user_id = @user_id", new { user_id = id }).FirstOrDefault();
+        }
+
+        public User GetByEmail(string email)
+        {
+            return Context.Connection.Query<User>("SELECT * FROM fso_users WHERE email = @email", new { email = email }).FirstOrDefault();
+        }
+        public List<User> GetByRegisterIP(string ip)
+        {
+            return Context.Connection.Query<User>("SELECT * FROM fso_users WHERE register_ip = @ip ORDER BY register_date DESC", new { ip = ip }).AsList();
+        }
+
+        public void UpdateConnectIP(uint id, string ip)
+        {
+            Context.Connection.Execute("UPDATE fso_users SET last_ip = @ip WHERE user_id = @user_id", new { user_id = id, ip = ip });
+        }
+
+        public void UpdateClientID(uint id, string uid)
+        {
+            Context.Connection.Execute("UPDATE fso_users SET client_id = @id WHERE user_id = @user_id", new { user_id = id, id = uid });
+        }
+
+        public void UpdateBanned(uint id, bool banned)
+        {
+            Context.Connection.Execute("UPDATE fso_users SET is_banned = @ban WHERE user_id = @user_id", new { user_id = id, ban = banned });
+        }
+
+        public void UpdateLastLogin(uint id, uint last_login)
+        {
+            Context.Connection.Execute("UPDATE fso_users SET last_login = @last_login WHERE user_id = @user_id", new { user_id = id, last_login = last_login });
+        }
+
+        public PagedList<User> All(int offset = 1, int limit = 20, string orderBy = "register_date")
+        {
+            var connection = Context.Connection;
+            var total = connection.Query<int>("SELECT COUNT(*) FROM fso_users").FirstOrDefault();
+            var results = connection.Query<User>("SELECT * FROM fso_users ORDER BY @order LIMIT @offset, @limit", new { order = orderBy, offset = offset, limit = limit });
+            return new PagedList<User>(results, offset, total);
+        }
+
+        public uint Create(User user)
+        {
+            return Context.Connection.Query<uint>(
+                "insert into fso_users set username = @username, email = @email, register_date = @register_date, register_ip = @register_ip, last_ip = @last_ip, " + 
+                "is_admin = @is_admin, is_moderator = @is_moderator, is_banned = @is_banned; select LAST_INSERT_ID();",
+                user
+            ).First();
+        }
+
+        public void CreateAuth(UserAuthenticate auth)
+        {
+            Context.Connection.Execute(
+                "insert into fso_user_authenticate set user_id = @user_id, scheme_class = @scheme_class, data = @data;",
+                auth
+            );
+        }
+
+        public void UpdateAuth(UserAuthenticate auth)
+        {
+            Context.Connection.Execute(
+                "UPDATE fso_user_authenticate SET scheme_class = @scheme_class, data = @data WHERE user_id = @user_id;",
+                new { auth.scheme_class, auth.data, auth.user_id }
+            );
+        }
+    }
+}

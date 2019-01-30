@@ -1,0 +1,8 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\bin\Debug\TargaImage.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\bin\Debug\TargaImage.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Debug\TargaImage.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Debug\TargaImage.Resource1.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Debug\TargaImage.csproj.GenerateResource.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Debug\TargaImage.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Debug\TargaImage.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\TargaImage\obj\Debug\TargaImage.pdb

@@ -1,0 +1,6 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\bin\Debug\VoronoiLib.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\bin\Debug\VoronoiLib.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Debug\VoronoiLib.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Debug\VoronoiLib.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Debug\VoronoiLib.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\VoronoiLib\obj\Debug\VoronoiLib.pdb

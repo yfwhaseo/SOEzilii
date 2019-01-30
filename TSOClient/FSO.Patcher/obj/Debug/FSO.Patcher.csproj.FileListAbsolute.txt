@@ -1,0 +1,10 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\bin\Debug\update.exe.config
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\bin\Debug\update.exe
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\bin\Debug\update.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\FSO.Patcher.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\FSO.Patcher.Patcher.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\FSO.Patcher.Properties.Resources.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\FSO.Patcher.csproj.GenerateResource.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\FSO.Patcher.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\update.exe
+C:\Users\UNKNOWN\Desktop\FreeSO\TSOClient\FSO.Patcher\obj\Debug\update.pdb

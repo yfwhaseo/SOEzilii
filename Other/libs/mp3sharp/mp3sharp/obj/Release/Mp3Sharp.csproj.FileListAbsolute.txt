@@ -1,0 +1,3 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\bin\Release\Mp3Sharp.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\obj\Release\Mp3Sharp.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\Other\libs\mp3sharp\mp3sharp\obj\Release\Mp3Sharp.dll
