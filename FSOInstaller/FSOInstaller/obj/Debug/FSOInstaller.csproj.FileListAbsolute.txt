@@ -1,0 +1,17 @@
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.csprojAssemblyReference.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\bin\Debug\FreeSO Installer.exe.config
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\bin\Debug\FreeSO Installer.exe
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\bin\Debug\FreeSO Installer.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\bin\Debug\TargaImage.dll
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\bin\Debug\TargaImage.pdb
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.GameDownloader.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.InstallerComplete.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.InstallerMain.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.InstallerStart.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.SetupFetcher.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.Properties.Resources.resources
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.csproj.GenerateResource.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FSOInstaller.csproj.CopyComplete
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FreeSO Installer.exe
+C:\Users\UNKNOWN\Desktop\FreeSO\FSOInstaller\FSOInstaller\obj\Debug\FreeSO Installer.pdb

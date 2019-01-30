@@ -45,7 +45,7 @@
             this.InstallDir.Name = "InstallDir";
             this.InstallDir.Size = new System.Drawing.Size(196, 20);
             this.InstallDir.TabIndex = 1;
-            this.InstallDir.Text = "C:/Program Files/FreeSO/";
+            this.InstallDir.Text = "C:/Program Files/SOEzilii/";
             // 
             // BrowseButton
             // 
@@ -111,7 +111,7 @@
             this.MinimizeBox = false;
             this.Name = "InstallerStart";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FreeSO Installer";
+            this.Text = "SOEzilii Installer";
             ((System.ComponentModel.ISupportInitialize)(this.InstallButton)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
